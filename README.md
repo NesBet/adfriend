@@ -11,7 +11,7 @@ These statements include:
 Feel free to use it and give a star.  
 
 ## Developer  
-To know more about me visit my portfolio [here]("https://neshkibet.vercel.app") or by copying the link below;  
+To know more about me visit my portfolio [here](https://neshkibet.vercel.app) or by copying the link below;  
 ##
     https://neshkibet.vercel.app
 ##
