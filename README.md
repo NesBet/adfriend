@@ -1,8 +1,7 @@
 ## ADFRIEND  
 
 # About  
-Adfriend is a simple browser extension that replaces ad blocks  
-in websites with a variety of statements.  
+Adfriend is a simple browser extension that replaces ad blocks in websites with a variety of statements.  
 These statements include:  
 * Bible verses  
 * Fun facts  
